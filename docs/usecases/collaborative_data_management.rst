@@ -106,7 +106,7 @@ quickly, and will still be relatively lean even for a dataset that contains
 several hundred GBs of data. He knows that his script can obtain the
 relevant data he needs on demand if he wraps it into a :dlcmd:`run`
 command and therefore does not need to care about getting the data yet. Instead,
-he focuses to write his script ``code/run_analysis.sh``.
+he focuses to write his script ``code/run_analysis.py``.
 To save this progress, he runs frequent :dlcmd:`save` commands:
 
 .. runrecord:: _examples/collab-104
